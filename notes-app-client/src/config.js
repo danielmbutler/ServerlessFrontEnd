@@ -1,4 +1,5 @@
 export default {
+  STRIPE_KEY: "pk_test_51Hj8e5EjlmVLPZhIZBs2woI9bOiLzFf5IhuzowuoXguPj6xkdVYi2bMI9AOG2tVuOh74lIgvXFkwyvFwVHDm8a91001ofWfKZh",
     s3: {
       REGION: "us-east-1",
       BUCKET: "notes-app-uploads-db"
